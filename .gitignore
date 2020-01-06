@@ -4,5 +4,6 @@ _site
 .jekyll-metadata
 vendor
 
-
+# local environment
+.DS_Store
 memo.md
